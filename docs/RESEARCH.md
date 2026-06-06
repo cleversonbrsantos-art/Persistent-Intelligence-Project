@@ -2,7 +2,7 @@
 
 ## Research Areas
 
-Cortana is an experimental research project focused on persistent cognitive intelligence.
+The project is an experimental research project focused on persistent cognitive intelligence.
 
 Rather than treating intelligence as a single model, the project explores how memory, continuity, learning, reflection, and context can work together over long periods of time.
 
