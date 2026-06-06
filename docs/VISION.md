@@ -1,8 +1,8 @@
 # Vision
 
-## The Cortana Vision
+## The project Vision
 
-Cortana exists to explore one central idea:
+The project exists to explore one central idea:
 
 > What if artificial intelligence could preserve meaningful continuity over time?
 
@@ -16,7 +16,7 @@ They can reason.
 
 But they rarely remember the journey.
 
-Cortana is a long-term research project focused on persistent cognitive intelligence: memory, continuity, reflection, learning, safety, and human-centered adaptation.
+The project is a long-term research project focused on persistent cognitive intelligence: memory, continuity, reflection, learning, safety, and human-centered adaptation.
 
 ---
 
@@ -28,7 +28,7 @@ People do not relate only to isolated answers.
 
 They relate to shared history, accumulated context, remembered preferences, repeated experiences, and gradual understanding.
 
-Cortana explores whether an AI system can become more useful by preserving meaningful context responsibly over long periods.
+The project explores whether an AI system can become more useful by preserving meaningful context responsibly over long periods.
 
 The objective is not to imitate consciousness.
 
@@ -38,7 +38,7 @@ The objective is to understand continuity.
 
 ## Beyond the Chatbot Model
 
-Cortana is not designed as a traditional chatbot.
+The project is not designed as a traditional chatbot.
 
 Conversation is only the interface.
 
@@ -50,7 +50,7 @@ The project investigates AI as a persistent cognitive system rather than a tempo
 
 ## Personal AI, Not Human Replacement
 
-Cortana is not intended to replace human relationships, family, community, education, therapy, or professional support.
+The project is not intended to replace human relationships, family, community, education, therapy, or professional support.
 
 The goal is assistance.
 
@@ -66,7 +66,7 @@ A responsible personal AI should help people think better, remember better, lear
 
 ## Accessibility as a Principle
 
-Cortana was born under technical constraints.
+The project was born under technical constraints.
 
 Limited hardware.
 
@@ -78,7 +78,7 @@ Those constraints shaped the project.
 
 If persistent cognitive AI only works with expensive infrastructure, it cannot become truly personal or accessible.
 
-Cortana explores whether meaningful cognitive systems can remain useful on modest hardware while using external intelligence sources only when necessary.
+The project explores whether meaningful cognitive systems can remain useful on modest hardware while using external intelligence sources only when necessary.
 
 ---
 
@@ -99,7 +99,7 @@ The long-term vision is a safe, private, persistent cognitive assistant capable 
 
 ## Final Principle
 
-Cortana is guided by a simple belief:
+The project is guided by a simple belief:
 
 > Intelligence becomes more useful when it remembers responsibly.
 >
