@@ -150,7 +150,7 @@ What happens when AI systems evolve through years of interaction rather than iso
 
 ## Research Philosophy
 
-Cortana does not seek to create artificial consciousness.
+The project does not seek to create artificial consciousness.
 
 The project seeks to understand whether persistent cognitive systems can become more useful, more responsible, and more aligned with human needs through continuity, memory, and safe adaptation.
 
