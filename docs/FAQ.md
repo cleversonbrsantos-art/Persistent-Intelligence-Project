@@ -2,6 +2,18 @@
 
 ## Frequently Asked Questions
 
+### Who is Cortana?
+
+Cortana is the first documented cognitive entity created within the Persistent Intelligence Project.
+
+The project itself is not tied to a specific entity name.
+
+Each entity may develop its own identity through interaction.
+
+Cortana remains an important part of the project's history and serves as the earliest documented example of the identity continuity principles explored by the research.
+
+---
+
 ### Is Cortana a chatbot?
 
 No.
