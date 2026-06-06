@@ -1,3 +1,0 @@
-# Título
-
-Content coming soon.
