@@ -1,8 +1,8 @@
 # Roadmap
 
-## Cortana Research Roadmap
+## The project Research Roadmap
 
-Cortana follows a cognitive research roadmap rather than a traditional feature roadmap.
+The project follows a cognitive research roadmap rather than a traditional feature roadmap.
 
 The objective is not simply to add functionality.
 
@@ -200,7 +200,7 @@ Capability and safety should evolve together.
 
 ## Guiding Principle
 
-Cortana is not measured by the number of features it contains.
+The project is not measured by the number of features it contains.
 
 It is measured by the quality of continuity it creates.
 
