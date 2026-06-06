@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document describes the public architectural principles behind Cortana.
+This document describes the public architectural principles behind The project.
 
 It intentionally focuses on concepts rather than implementation details.
 
@@ -14,7 +14,7 @@ The purpose of this document is to explain how the project is organized at a hig
 
 ## Architectural Philosophy
 
-Cortana is based on a simple principle:
+The project is based on a simple principle:
 
 > Intelligence is more than language generation.
 
@@ -74,7 +74,7 @@ Research areas include:
 
 ## Knowledge and Memory
 
-Memory is a central research topic within Cortana.
+Memory is a central research topic within The project.
 
 The project investigates how information can be preserved, organized, retrieved, and managed responsibly over time.
 
@@ -117,7 +117,7 @@ Safety evolves alongside capability.
 
 ## External Intelligence Sources
 
-Cortana may interact with external systems when appropriate.
+The project may interact with external systems when appropriate.
 
 These systems may contribute:
 
@@ -155,6 +155,6 @@ Many questions remain open areas of investigation.
 
 ## Final Principle
 
-Cortana is not built around a single model.
+The project is not built around a single model.
 
 The project explores how memory, continuity, learning, reflection, safety, and human interaction can work together to create more useful and responsible forms of personal AI.
