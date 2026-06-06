@@ -1,4 +1,4 @@
-# CORTANA AI
+# Persistent Intelligence Project
 
 ## Persistent Cognitive Intelligence
 
