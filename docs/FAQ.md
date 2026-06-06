@@ -36,6 +36,21 @@ Not replacement.
 
 ---
 
+### Why is the project not named after the AI entity?
+
+The project and the entity are separate concepts.
+
+The platform provides the cognitive framework.
+
+The user provides the identity.
+
+Each entity may receive a different name depending on its history and relationship with its user.
+
+The project therefore avoids treating a single entity name as the identity of the entire platform.
+
+
+---
+
 ### Does Cortana learn automatically?
 
 The project explores responsible adaptation and learning.
