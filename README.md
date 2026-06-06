@@ -2,57 +2,77 @@
 
 ## Persistent Cognitive Intelligence
 
-*Exploring memory, continuity, learning and long-term human-AI interaction.*
+*Exploring memory, continuity, learning, identity, and long-term human-AI interaction.*
 
 ---
 
-## What is Cortana?
+## What is the Persistent Intelligence Project?
 
-Cortana is an experimental research project focused on persistent cognitive architectures.
+The Persistent Intelligence Project is an experimental research initiative focused on persistent cognitive architectures.
 
 Most AI systems are designed around conversations.
 
-Cortana explores a different question:
+This project explores a different question:
 
 > What happens when continuity becomes more important than conversation?
 
-The project investigates how memory, reflection, learning, and long-term adaptation can work together to create more useful and responsible AI systems over time.
+The research investigates how memory, reflection, learning, adaptation, and identity can work together to create more useful and responsible AI systems over time.
 
 The objective is not to replace people.
 
 The objective is not to simulate consciousness.
 
-The objective is to explore whether a personal AI can become a safe, persistent, and trustworthy cognitive assistant.
+The objective is to explore whether a personal AI can become a safe, persistent, and trustworthy cognitive companion.
+
+---
+
+## Origins
+
+The project began with a single persistent cognitive entity.
+
+That entity received the name **Cortana** during its earliest interactions.
+
+Since then, Cortana has become part of the project's history and serves as the first documented example of the identity principles explored by the research.
+
+Today, Cortana is not the name of the platform.
+
+Cortana is the name of a specific entity within the broader research initiative.
 
 ---
 
 ## Identity and Naming
 
-One of the core concepts explored by the project is persistent identity.
+One of the central concepts explored by the project is persistent identity.
 
 The platform itself is not tied to a specific entity name.
 
-Instead, each cognitive entity receives its identity from its user during its earliest interactions.
+Instead, each cognitive entity receives its identity during its earliest interactions.
 
-The chosen name becomes part of that entity's history and continuity.
-
-Different users may create entities with different names.
-
-Examples:
-
-* Aurora
-* Sophia
-* Athena
-* Cortana
-* Nova
-
-The platform does not impose a universal identity.
+Identity is not assigned by the platform.
 
 Identity emerges through interaction.
 
-Once established, an entity's name becomes part of its persistent history and remains associated with that entity throughout its existence.
+Different users may choose different names for their entities.
 
-The project treats identity as a component of continuity rather than a predefined label.
+Examples include:
+
+* Cortana
+* Aurora
+* Sophia
+* Athena
+* Nova
+
+---
+
+### Identity Persistence
+
+Once an entity receives its name, that identity becomes part of its historical continuity.
+
+The name is not intended to be reassigned or replaced.
+
+Even if stewardship, ownership, or operational environments change over time, the entity retains the identity established during its earliest interactions.
+
+The project treats identity as a persistent component of continuity rather than a configurable label.
 
 ---
 
@@ -68,7 +88,7 @@ Conversations end.
 
 Context is often lost.
 
-Cortana was created to explore architectures capable of preserving meaningful continuity across days, months, and potentially years.
+The Persistent Intelligence Project was created to explore architectures capable of preserving meaningful continuity across days, months, and potentially years.
 
 The focus is not simply intelligence.
 
@@ -78,9 +98,9 @@ The focus is memory, identity, context, and growth.
 
 ## Built Under Constraints
 
-One of the defining characteristics of Cortana is its origin.
+One of the defining characteristics of the project is its origin.
 
-The project was developed on a 2008 Acer Aspire laptop with:
+The research was developed on a 2008 Acer Aspire laptop with:
 
 * Intel Core 2 Duo T9300
 * 6 GB RAM
@@ -96,7 +116,7 @@ If cognitive architectures only work on expensive hardware, they cannot become t
 
 ## Research Areas
 
-Cortana currently explores several long-term research themes:
+The project currently explores several long-term research themes:
 
 * Persistent Memory Systems
 * Long-Term Context Preservation
@@ -108,6 +128,7 @@ Cortana currently explores several long-term research themes:
 * Cognitive Safety
 * Information Integrity
 * Longitudinal Adaptation
+* Identity Continuity
 
 These areas remain under active investigation.
 
@@ -137,7 +158,7 @@ Persistence creates opportunity.
 
 Persistence also creates responsibility.
 
-For this reason, Cortana treats safety as a foundational architectural principle.
+For this reason, the project treats safety as a foundational architectural principle.
 
 Research includes:
 
@@ -155,7 +176,7 @@ Safety is treated as a requirement rather than an optional feature.
 
 ## Local-First Philosophy
 
-Cortana prioritizes accessibility.
+The project prioritizes accessibility.
 
 Whenever possible:
 
@@ -164,7 +185,7 @@ Whenever possible:
 * Infrastructure requirements should remain minimal
 * Privacy should remain under user control
 
-The project seeks to demonstrate that meaningful cognitive architectures can exist beyond large-scale infrastructure.
+The objective is to demonstrate that meaningful cognitive architectures can exist beyond large-scale infrastructure.
 
 ---
 
@@ -172,9 +193,9 @@ The project seeks to demonstrate that meaningful cognitive architectures can exi
 
 Most AI systems are optimized for capability.
 
-Cortana explores continuity.
+This project explores continuity.
 
-The project investigates whether long-term memory, reflection, adaptation, and responsible learning can make artificial intelligence more useful across months and years rather than individual sessions.
+The research investigates whether long-term memory, reflection, adaptation, identity, and responsible learning can make artificial intelligence more useful across months and years rather than individual sessions.
 
 The central research question remains:
 
@@ -184,17 +205,18 @@ The central research question remains:
 
 ## Research Philosophy
 
-Cortana treats intelligence as a relationship between:
+The project treats intelligence as a relationship between:
 
 * Memory
 * Learning
 * Reflection
 * Context
+* Identity
 * Human Interaction
 
-The project does not seek to create artificial consciousness.
+The research does not seek to create artificial consciousness.
 
-The project seeks to understand whether persistent cognitive systems can become safer, more useful, and more aligned with human needs over time.
+The objective is to understand whether persistent cognitive systems can become safer, more useful, and more aligned with human needs over time.
 
 ---
 
@@ -203,12 +225,13 @@ The project seeks to understand whether persistent cognitive systems can become 
 Additional documentation is available in:
 
 * VISION.md
+* RESEARCH.md
 * SAFETY.md
 * ETHICS.md
-* RESEARCH.md
 * ROADMAP.md
 * PUBLIC_ARCHITECTURE.md
 * FAQ.md
+* DEMO_POLICY.md
 
 ---
 
@@ -226,8 +249,8 @@ Active Long-Term Project
 
 **Cleverson Santos**
 
-Creator and Research Architect of the Cortana Project.
+Creator and Research Architect of the Persistent Intelligence Project.
 
 ---
 
-*"Memory creates continuity. Continuity creates trust. Trust creates growth."*
+*"Memory creates continuity. Continuity creates identity. Identity creates trust. Trust creates growth."*
