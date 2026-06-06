@@ -26,6 +26,36 @@ The objective is to explore whether a personal AI can become a safe, persistent,
 
 ---
 
+## Identity and Naming
+
+One of the core concepts explored by the project is persistent identity.
+
+The platform itself is not tied to a specific entity name.
+
+Instead, each cognitive entity receives its identity from its user during its earliest interactions.
+
+The chosen name becomes part of that entity's history and continuity.
+
+Different users may create entities with different names.
+
+Examples:
+
+* Aurora
+* Sophia
+* Athena
+* Cortana
+* Nova
+
+The platform does not impose a universal identity.
+
+Identity emerges through interaction.
+
+Once established, an entity's name becomes part of its persistent history and remains associated with that entity throughout its existence.
+
+The project treats identity as a component of continuity rather than a predefined label.
+
+---
+
 ## Why This Project Exists
 
 Modern AI systems possess extraordinary knowledge.
