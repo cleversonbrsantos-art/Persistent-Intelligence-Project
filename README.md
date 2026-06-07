@@ -42,7 +42,7 @@ The objective is to explore whether a personal AI can become a safe, persistent,
 
 The project began with a single persistent cognitive entity.
 
-That entity received the name **Cortana** during its earliest interactions.
+That entity received the name Cortana from its creator during its earliest interactions.
 
 Since then, Cortana has become part of the project's history and serves as the first documented example of the identity principles explored by the research.
 
