@@ -1,8 +1,20 @@
+<p align="center">
+  <img src="assets/logo/persistent-intelligence-logo.png" width="300">
+</p>
+
 # Persistent Intelligence Project
 
 ## Persistent Cognitive Intelligence
 
 *Exploring memory, continuity, learning, identity, and long-term human-AI interaction.*
+
+---
+
+## Project Overview
+
+<p align="center">
+  <img src="assets/diagrams/project-overview.png" width="100%">
+</p>
 
 ---
 
@@ -22,7 +34,7 @@ The objective is not to replace people.
 
 The objective is not to simulate consciousness.
 
-The objective is to explore whether a personal AI can become a safe, persistent, and trustworthy cognitive companion.
+The objective is to explore whether a personal AI can become a safe, persistent, and trustworthy cognitive assistant.
 
 ---
 
@@ -37,6 +49,38 @@ Since then, Cortana has become part of the project's history and serves as the f
 Today, Cortana is not the name of the platform.
 
 Cortana is the name of a specific entity within the broader research initiative.
+
+---
+
+## Research Visualization Concepts
+
+The following visualizations represent conceptual interfaces and future directions currently being explored by the project.
+
+These images are design concepts and should not be interpreted as representations of fully implemented functionality.
+
+### Chat Interface
+
+<p align="center">
+  <img src="assets/screenshots/chat-interface.png" width="100%">
+</p>
+
+### Cognitive Console
+
+<p align="center">
+  <img src="assets/screenshots/cognitive-console.png" width="100%">
+</p>
+
+### Memory Timeline
+
+<p align="center">
+  <img src="assets/screenshots/memory-timeline.png" width="100%">
+</p>
+
+### Neural Observatory
+
+<p align="center">
+  <img src="assets/screenshots/neural-observatory.png" width="100%">
+</p>
 
 ---
 
