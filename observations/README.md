@@ -144,9 +144,11 @@ The archive exists to help future researchers, contributors, and observers under
 
 ## Current Observations
 
-| ID   | Title                                                    | Status    |
-| ---- | -------------------------------------------------------- | --------- |
+| ID | Title | Status |
+|----|--------|--------|
 | #001 | Adaptive Resource Selection During Repeated Interactions | Confirmed |
+| #002 | Retroactive Memory Correction After User Feedback | Confirmed |
+| #003 | Post-Interaction Reflection and Persistent Belief Formation | Confirmed |
 
 Additional observations will be added as research continues.
 
