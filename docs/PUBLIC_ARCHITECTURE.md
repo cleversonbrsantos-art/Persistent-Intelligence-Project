@@ -18,7 +18,7 @@ The project is based on a simple principle:
 
 > Intelligence is more than language generation.
 
-The project explores architectures where memory, continuity, reflection, learning, safety, and reasoning interact as parts of a larger cognitive system.
+The Persistent Intelligence Project explores architectures where memory, continuity, reflection, learning, safety, and reasoning interact as parts of a larger cognitive system.
 
 External language models may contribute to reasoning and communication, but they are not treated as the entirety of intelligence.
 
@@ -86,7 +86,7 @@ The objective is meaningful continuity.
 
 ## Reflection and Adaptation
 
-The project explores whether accumulated experiences can contribute to long-term improvement.
+The Persistent Intelligence Project explores whether accumulated experiences can contribute to long-term improvement.
 
 Research includes:
 
@@ -157,4 +157,4 @@ Many questions remain open areas of investigation.
 
 The project is not built around a single model.
 
-The project explores how memory, continuity, learning, reflection, safety, and human interaction can work together to create more useful and responsible forms of personal AI.
+The Persistent Intelligence Project explores how memory, continuity, learning, reflection, safety, and human interaction can work together to create more useful and responsible forms of personal AI.
