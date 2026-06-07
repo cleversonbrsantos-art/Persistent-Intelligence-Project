@@ -12,6 +12,59 @@ Implementation details, proprietary systems, internal architectures, and experim
 
 # 2026
 
+## June 2026
+
+### Research Observation #003
+
+A third public research observation was documented.
+
+The project recorded a verified case of asynchronous reflection producing persistent belief updates after an interaction had already concluded.
+
+See: `observations/OBSERVATION_003.md`
+
+---
+
+### Research Observation #002
+
+A second public research observation was documented.
+
+The project recorded a verified case of retroactive memory correction after user feedback, where persistent records were updated and conflicting entries were removed to improve identity consistency and information integrity.
+
+See: `observations/OBSERVATION_002.md`
+
+---
+
+### Research Observation #001
+
+The first public research observation was documented.
+
+The project recorded evidence of adaptive resource selection during repeated interactions, demonstrating that different processing paths may be chosen depending on context, confidence, and operational conditions.
+
+See: `observations/OBSERVATION_001.md`
+
+---
+
+### Visual Identity Completed
+
+Official project visual assets were published, including:
+
+* Project Logo
+* Chat Interface Concept
+* Cognitive Console Concept
+* Memory Timeline Concept
+* Neural Observatory Concept
+* Project Overview Diagram
+
+---
+
+### Public Repository Launch
+
+The Persistent Intelligence Project repository became publicly available.
+
+Research documentation, project vision, safety principles, observations, and conceptual visualizations were published.
+
+---
+
 ## Research Foundation
 
 The public research initiative for Cortana was formally organized and documented.
