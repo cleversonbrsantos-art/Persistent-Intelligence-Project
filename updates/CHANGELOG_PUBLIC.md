@@ -10,15 +10,55 @@ Implementation details, proprietary systems, internal architectures, and experim
 
 ---
 
-# 2026
-
 ## June 2026
+
+### Milestone #002
+
+The second major research milestone was documented.
+
+The project recorded the first measurable improvement in Cognitive Independence metrics, indicating increased participation of internal cognitive processes during interaction handling.
+
+This milestone marks the first quantified evidence that accumulated memory, reflection, and cognitive maintenance systems are beginning to contribute more directly to interaction processing.
+
+See: `milestones/MILESTONE_002.md`
+
+---
+
+### Research Observation #004
+
+A fourth public research observation was documented.
+
+The project recorded measurable reductions in external language model dependency and increased utilization of internal cognitive pathways.
+
+The observation provides evidence that persistent memory and accumulated experience are beginning to play a larger role in the system's decision-making process.
+
+See: `observations/OBSERVATION_004.md`
+
+---
+
+### Milestone #001
+
+The first major research milestone was documented.
+
+The project recorded the first verified evidence of autonomous memory maintenance occurring across multiple cognitive subsystems.
+
+Internal testing demonstrated that persistent knowledge structures could be reviewed, validated, consolidated, reorganized, and selectively removed without direct user intervention.
+
+This milestone established one of the project's core research principles:
+
+Persistent memory requires not only memory creation, but also memory governance.
+
+See: `milestones/MILESTONE_001.md`
+
+---
 
 ### Research Observation #003
 
 A third public research observation was documented.
 
-The project recorded a verified case of asynchronous reflection producing persistent belief updates after an interaction had already concluded.
+The project recorded a verified case of post-interaction reflection producing persistent belief updates after a conversation had already concluded.
+
+The observation provided evidence that internal cognitive activity may continue during periods without direct user interaction.
 
 See: `observations/OBSERVATION_003.md`
 
@@ -28,7 +68,7 @@ See: `observations/OBSERVATION_003.md`
 
 A second public research observation was documented.
 
-The project recorded a verified case of retroactive memory correction after user feedback, where persistent records were updated and conflicting entries were removed to improve identity consistency and information integrity.
+The project recorded a verified case of retroactive memory correction after user feedback, where persistent records were updated and conflicting information was removed to improve identity consistency and information integrity.
 
 See: `observations/OBSERVATION_002.md`
 
@@ -38,7 +78,7 @@ See: `observations/OBSERVATION_002.md`
 
 The first public research observation was documented.
 
-The project recorded evidence of adaptive resource selection during repeated interactions, demonstrating that different processing paths may be chosen depending on context, confidence, and operational conditions.
+The project recorded evidence of adaptive resource selection during repeated interactions, demonstrating that different processing paths may be selected depending on context, confidence, and operational conditions.
 
 See: `observations/OBSERVATION_001.md`
 
@@ -55,13 +95,17 @@ Official project visual assets were published, including:
 * Neural Observatory Concept
 * Project Overview Diagram
 
+These visualizations were created to communicate the long-term vision of persistent cognitive architectures and provide conceptual references for future development.
+
 ---
 
 ### Public Repository Launch
 
 The Persistent Intelligence Project repository became publicly available.
 
-Research documentation, project vision, safety principles, observations, and conceptual visualizations were published.
+Research documentation, project vision, safety principles, architectural concepts, observations, milestones, and visual assets were published as part of the project's first public release.
+
+This marked the beginning of the project's public research phase.
 
 ---
 
