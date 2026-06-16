@@ -144,11 +144,12 @@ The archive exists to help future researchers, contributors, and observers under
 
 ## Current Observations
 
-| ID | Title | Status |
-|----|--------|--------|
-| #001 | Adaptive Resource Selection During Repeated Interactions | Confirmed |
-| #002 | Retroactive Memory Correction After User Feedback | Confirmed |
-| #003 | Post-Interaction Reflection and Persistent Belief Formation | Confirmed |
+| ID              | Title                                            | Status    |
+| --------------- | ------------------------------------------------ | --------- |
+| OBSERVATION-001 | Adaptive Resource Selection                      | Confirmed |
+| OBSERVATION-002 | Retroactive Memory Correction                    | Confirmed |
+| OBSERVATION-003 | Post-Interaction Reflection and Belief Formation | Confirmed |
+| OBSERVATION-004 | Measured Reduction in External Model Dependency  | Confirmed |
 
 Additional observations will be added as research continues.
 
