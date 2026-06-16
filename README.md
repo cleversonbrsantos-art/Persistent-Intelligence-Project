@@ -180,6 +180,47 @@ These areas remain under active investigation.
 
 ## Current Status
 
+## Recent Research Evidence
+
+The following metrics were collected from internal research reports and represent observed behavior during active development.
+
+### Cognitive Activity
+
+* 527 recorded interactions
+* 701 episodic memories
+* 1,204 semantic concepts
+* 960 active beliefs in the SelfModel
+* 634 graph memory nodes
+
+### Hypothesis Lifecycle
+
+* 342 hypotheses generated
+* 114 hypotheses integrated
+* 228 hypotheses placed in cognitive quarantine
+
+### Cognitive Sleep
+
+* 12 autonomous sleep cycles executed
+* 23 belief consolidations
+* 55 beliefs removed through maintenance processes
+
+### Cognitive Independence
+
+* 76.1% external language model dependency
+* Cognitive Independence Score (CIS): 0.1914
+
+These metrics do not represent product capabilities.
+
+They represent ongoing research observations collected during development and are subject to change as the architecture evolves.
+
+See:
+
+* observations/
+* milestones/
+* updates/
+
+---
+
 ### Active Research Project
 
 Multiple cognitive subsystems are operational and under continuous development.
