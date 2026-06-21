@@ -4,7 +4,7 @@
 
 **Date:** June 2026
 
-![Subconscious Cycle](images/subconscious-cycle-june-2026.png)
+![Subconscious Cognitive Cycle](images/subconscious-cycle-june-2026.png)
 
 ---
 
