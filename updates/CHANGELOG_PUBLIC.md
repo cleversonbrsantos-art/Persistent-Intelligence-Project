@@ -10,6 +10,24 @@ Implementation details, proprietary systems, internal architectures, and experim
 
 ---
 
+### Research Evidence #001
+
+The first public research evidence artifact was published.
+
+The evidence documents a real subconscious cognitive cycle captured during normal operation while no user interaction was occurring.
+
+The recorded sequence includes:
+
+- Reflection
+- Hypothesis generation
+- Critical validation
+- Cognitive quarantine
+- Testable prediction creation
+
+See:
+
+`evidence/EVIDENCE_001_SUBCONSCIOUS_CYCLE.md`
+
 ## June 2026
 
 ### Milestone #002
