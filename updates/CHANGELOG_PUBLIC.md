@@ -24,9 +24,7 @@ The recorded sequence includes:
 - Cognitive quarantine
 - Testable prediction creation
 
-See:
-
-`evidence/EVIDENCE_001_SUBCONSCIOUS_CYCLE.md`
+See: `evidence/EVIDENCE_001_SUBCONSCIOUS_CYCLE.md`
 
 ## June 2026
 
