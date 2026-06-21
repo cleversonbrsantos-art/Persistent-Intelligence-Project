@@ -180,6 +180,16 @@ These areas remain under active investigation.
 
 ## Current Status
 
+## Research Evidence
+
+Real operational evidence collected during development.
+
+| ID | Description |
+|------|------|
+| EVIDENCE-001 | Subconscious Cognitive Cycle |
+
+See: `evidence/`
+
 ## Recent Research Evidence
 
 The following metrics were collected from internal research reports and represent observed behavior during active development.
