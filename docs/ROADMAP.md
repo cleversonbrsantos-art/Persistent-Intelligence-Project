@@ -63,7 +63,7 @@ Study whether accumulated experiences can be analyzed to improve long-term usefu
 
 ### Status
 
-Research
+Active
 
 ---
 
@@ -82,7 +82,7 @@ Investigate safe approaches to long-term learning and adaptation.
 
 ### Status
 
-Research
+Active
 
 ---
 
@@ -178,6 +178,34 @@ Study intelligence as a process that evolves across years rather than isolated i
 ### Status
 
 Long-Term Research
+
+---
+
+## Planned Research Directions
+
+The following directions follow the current consolidation stage and depend on measurements it produces.
+
+### Local Cognitive Layer
+
+Study the selective use of a small local language model for routine conversation, including offline operation.
+
+Knowledge is resolved in order: own memory first, local model second, external model last. Learning remains in memory rather than in the model, so the model can be replaced.
+
+The target is the reference hardware (16 GB RAM).
+
+Status: Planned
+
+### Temporal Fact Memory
+
+Study how a system can tell a fact that is currently true from one that was true, and keep both correctly retrievable.
+
+Status: Design
+
+### Metrics Transparency
+
+A read-only view of identity and belief metrics, with reports that can be verified against the underlying data. No human interaction in this view can alter identity.
+
+Status: Planned
 
 ---
 
