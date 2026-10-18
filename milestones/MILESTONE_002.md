@@ -56,3 +56,13 @@ Instead, it demonstrates measurable progress toward a cognitive architecture cap
 Confirmed through internal metrics and longitudinal monitoring.
 
 Further validation remains ongoing.
+
+---
+
+## Update
+
+The metrics behind this record were collected before a data integrity audit (see Field Note #002).
+
+The direction described here has not been disproven, but it has not been revalidated on audited data either.
+
+Revalidation is pending.
