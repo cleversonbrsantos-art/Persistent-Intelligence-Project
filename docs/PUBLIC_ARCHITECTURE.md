@@ -99,6 +99,34 @@ Adaptation is treated as a controlled process rather than unrestricted change.
 
 ---
 
+## Epistemic Memory
+
+The architecture distinguishes between beliefs inferred by the system and facts confirmed by the user.
+
+Inferred knowledge is provisional. Confirmed facts keep their own record, including whether they are still true.
+
+Accumulating knowledge with decay is not the same as learning.
+
+---
+
+## Knowledge Routing
+
+Requests are resolved in order: own memory first, external language models when the system lacks enough knowledge.
+
+When memory already holds the answer, an external model may be used only to phrase it.
+
+Dependency on external models is measured and reported openly, including corrections.
+
+---
+
+## Identity Governance
+
+A small set of foundational traits is protected and permanent.
+
+All other traits must earn their place through evidence, reinforcement, decay and validation. Neither an external model nor the user can write directly into the entity's identity.
+
+---
+
 ## Safety and Governance
 
 Safety is considered a core architectural concern.
