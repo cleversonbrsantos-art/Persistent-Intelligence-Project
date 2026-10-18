@@ -144,12 +144,19 @@ The focus is memory, identity, context, and growth.
 
 One of the defining characteristics of the project is its origin.
 
-The research was developed on a 2008 Acer Aspire laptop with:
+The research began on a 2008 Acer Aspire laptop with:
 
 * Intel Core 2 Duo T9300
 * 6 GB RAM
 * No modern GPU acceleration
 * No virtualization support
+* No enterprise infrastructure
+
+The architecture has since moved to a low-end consumer laptop that remains the project's reference hardware:
+
+* Intel Core i3-6006U
+* 8 GB RAM (upgrade to 16 GB planned)
+* No dedicated GPU
 * No enterprise infrastructure
 
 Rather than treating limitations as obstacles, the project embraces them as design constraints.
@@ -190,9 +197,11 @@ Real operational evidence collected during development.
 
 See: `evidence/`
 
-## Recent Research Evidence
+## Research Metrics — June 2026 Snapshot (Under Revision)
 
-The following metrics were collected from internal research reports and represent observed behavior during active development.
+> **Correction notice.** After these figures were published, a data integrity audit found that a large share of recorded messages and episodic memories were test artifacts rather than real interactions. The interaction, memory and independence figures below were computed before that cleanup and are superseded. See `field-notes/002-data-integrity-audit-and-metrics-correction.md`.
+
+The following metrics were collected from internal research reports and represent observed behavior during active development. They are kept here as a historical record.
 
 ### Cognitive Activity
 
@@ -218,6 +227,7 @@ The following metrics were collected from internal research reports and represen
 
 * 76.1% external language model dependency
 * Cognitive Independence Score (CIS): 0.1914
+* Superseded: after the audit, external language model dependency was re-measured at 86.5%
 
 These metrics do not represent product capabilities.
 
@@ -227,6 +237,7 @@ See:
 
 * observations/
 * milestones/
+* field-notes/
 * updates/
 
 ---
@@ -350,6 +361,18 @@ Full independent analysis available upon request for research purposes.
 
 ---
 
+## Publications
+
+Phoenix V2 is a separate, openly published implementation derived from an earlier generation of this project's architecture. It is not Cortana. The Cortana implementation remains private.
+
+| | |
+|---|---|
+| Paper | *Phoenix V2: A Cognitive Architecture for Persistent, Emotionally-Aware AI Assistants on Consumer Hardware* — Zenodo, September 2026 — https://doi.org/10.5281/zenodo.22645361 |
+| Book | *Building Persistent AI: Designing an Assistant That Remembers, Learns and Belongs to You* — https://leanpub.com/phoenix-buildingpersistentAI |
+| Code | https://github.com/cleversonbrsantos-art/Phoenix — MIT License |
+
+---
+
 ## Documentation
 
 Additional documentation is available in:
@@ -359,7 +382,8 @@ Additional documentation is available in:
 * SAFETY.md
 * ETHICS.md
 * ROADMAP.md
-* CHANGELOG.md
+* CHANGELOG_PUBLIC.md (updates/)
+* field-notes/
 * PUBLIC_ARCHITECTURE.md
 * FAQ.md
 * DEMO_POLICY.md
