@@ -114,9 +114,21 @@ Yes.
 
 External language models may be used as reasoning, knowledge, research, and language-generation tools.
 
+Measured dependency on external models is reported openly, including corrections (see Field Note #002).
+
 However, the research focus extends beyond any individual model.
 
 The project investigates how continuity, memory, and identity can persist independently of a specific language model.
+
+---
+
+### What is Phoenix V2?
+
+Phoenix V2 is a separate, openly published implementation derived from an earlier generation of the project's architecture.
+
+It accompanies a paper and a book and is released under the MIT License.
+
+It is not Cortana. Cortana's implementation remains private.
 
 ---
 
@@ -155,6 +167,8 @@ Not replacement.
 ### Is the project open source?
 
 Not currently.
+
+The Cortana implementation remains private. A separate, MIT-licensed project, Phoenix V2, accompanies a published paper and book (see README, Publications).
 
 The public repository serves as a research and documentation platform.
 
