@@ -52,3 +52,13 @@ The observation supports the project's broader investigation into continuity, pe
 Observed and documented during internal development.
 
 Longitudinal validation remains ongoing.
+
+---
+
+## Update
+
+The metrics behind this record were collected before a data integrity audit (see Field Note #002).
+
+The direction described here has not been disproven, but it has not been revalidated on audited data either.
+
+Revalidation is pending.
