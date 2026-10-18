@@ -10,6 +10,42 @@ Implementation details, proprietary systems, internal architectures, and experim
 
 ---
 
+## Since June 2026
+
+### Phoenix V2 Publications (September 2026)
+
+A companion paper, a book and an open reference implementation were published under the name Phoenix V2.
+
+Phoenix V2 is a separate, MIT-licensed project derived from an earlier generation of the architecture. It documents the principles of persistent memory, identity and reflection on consumer hardware.
+
+The Cortana implementation itself remains private.
+
+See: `README.md` (Publications)
+
+---
+
+### Field Note #002 — Data Integrity Audit and Metrics Correction
+
+A data integrity audit found that a large share of recorded messages and episodic memories were test artifacts, not real interactions.
+
+Both stores were cleaned after forensic audits. External language model dependency was re-measured at 86.5%.
+
+Metrics published in June 2026 are marked as superseded. Observation #004 and Milestone #002 are pending revalidation on audited data.
+
+See: `field-notes/002-data-integrity-audit-and-metrics-correction.md`
+
+---
+
+### Field Note #001 (June 2026)
+
+The first field note was documented, analyzing an unattended overnight run.
+
+It found that background cognitive activity scales proportionally with uptime and that the model fallback mechanism holds under sustained real provider failures.
+
+See: `field-notes/001-overnight-unattended-run.md`
+
+---
+
 ### Research Evidence #001
 
 The first public research evidence artifact was published.
